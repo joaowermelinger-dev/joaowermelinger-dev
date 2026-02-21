@@ -23,6 +23,7 @@
 Atualmente estudo programação com foco em desenvolvimento web.  
 Tenho experiência prática com HTML, CSS e JavaScript, criando projetos para aplicar meus conhecimentos e evoluir como desenvolvedor.
 Estou construindo minha base sólida no front-end enquanto me preparo para avançar para o back-end.
+Cursando Analise e Desenvolvimento de Sistemas (ADS)
 
 ---
 
