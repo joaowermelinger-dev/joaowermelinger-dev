@@ -34,6 +34,7 @@ Estou construindo minha base sólida no front-end enquanto me preparo para avan�
 - JavaScript (ES6+)
 
 📚 Próximos passos:
+- TypeScript
 - Node.js
 - React
 - Banco de Dados
